@@ -2,7 +2,7 @@
 
 **Software Engineer** · Python · Full-Stack · AI/ML
 
-[![Email](https://img.shields.io/badge/Email-velagatirumala13%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:velagatirumala13@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-velagatirumala2004%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:velagatirumala2004@gmail.com)  
 📱 +91 7207288238
 
 ---
@@ -52,7 +52,7 @@ Software Engineer with **internship experience** (Data Science) and **full-time 
 
 ## Education
 
-- **B.Tech** Computer Science (AI/ML) – St. Mary's Women's Engineering College, Guntur (July 2025) · GPA: 8.2
+- **B.Tech** Computer Science (AI/ML) – St. Mary's Women's Engineering College, Guntur (May 2025) · GPA: 8.2
 - **Class XII** – Board of Intermediate Education, AP (2021) · 86%
 - **Class X** – SSC, Andhra Pradesh (2019) · 86%
 
